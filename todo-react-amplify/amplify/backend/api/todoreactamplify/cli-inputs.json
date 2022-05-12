@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "todoreactamplify",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\njugran\\Amplify\\todo-react-amplify\\amplify\\backend\\api\\todoreactamplify\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
